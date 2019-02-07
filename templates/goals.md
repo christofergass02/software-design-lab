@@ -3,10 +3,10 @@
 
 ## Goal One
 
-
+learn simple codes and commands
 -----
 
-Benchmark:
+Benchmark: be able to know code and commands and use without notes.
 
 
 ## Goal Two
