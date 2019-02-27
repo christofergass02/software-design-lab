@@ -28,25 +28,25 @@ Hour 7: Reviewed material for class and worked on anaconda
 
 ## Week four (2/13 to 2/20)
 
-This week, I spent part of my time reviewing Git and the command line, including an hour with the DHRI command line tutorial. I found Git to be tough going, but feel like I made solid progress learning how to use pipes on the command line, though I'm still a little confused on the details of how they work. I also started learning how to run scripts in Python, which was very time consuming.
+This week, after the exitement from last weeks class, I started to put together a prompt that I wanted to play with. However, when I was cleaning up my folders on my desktop I X'd out of my anaconda script and lost all my work from class that I was planning to slowly go over again to create a new prompt. Luckily, a classmate pointed me in the right direction to go over class instruction. Basically forgot to go in and out of python and how to run a prompt. I have relearned what we were working on and am enjoying working in Python! 
 
-Hour 1: Git review using Pro Git book
-Hour 2: Git review using Pro Git book
-Hour 3: Phone call with classmate to fiture out pipes
-Hour 4: Tried running a "hello world" Python script
-Hour 5: ''
-Hour 6: ''
-Hour 7: Should have given up, but got the script eworking, though I'm still not sure what went wrong.
+Hour 1: Python review from last class
+Hour 2: Created a simple python input code for emotions
+Hour 3: Created a simple python import random code for facts
+Hour 4: Started Automate the Boring Stuff with Python
+Hour 5: Continued Automate the Boring Stuff with Python
+Hour 6: Continued Automate the Boring Stuff with Python
+Hour 7: Went over materials to be discussed in class
 
 
 ## Week four (2/20 to 2/27)
 
-This week, I spent part of my time reviewing Git and the command line, including an hour with the DHRI command line tutorial. I found Git to be tough going, but feel like I made solid progress learning how to use pipes on the command line, though I'm still a little confused on the details of how they work. I also started learning how to run scripts in Python, which was very time consuming.
+This week, I reworked the sloth emporium html page for my own website. I created a front/home page, CV page, Bio page, and Portfolio page that all link together. 
 
-Hour 1: Git review using Pro Git book
-Hour 2: Git review using Pro Git book
-Hour 3: Phone call with classmate to fiture out pipes
-Hour 4: Tried running a "hello world" Python script
-Hour 5: ''
-Hour 6: ''
-Hour 7: Should have given up, but got the script eworking, though I'm still not sure what went wrong.
+Hour 1: Reworked Sloth Emporium html page
+Hour 2: Continued to rework html page
+Hour 3: Continued to rework html page
+Hour 4: Continued to rework html page
+Hour 5: Continued to rework html page
+Hour 6: Continued to rework html page
+Hour 7: Continued to rework html page
