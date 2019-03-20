@@ -10,9 +10,9 @@ Benchmark: have created multiple processes in the command line and anaconda with
 
 ## Goal Two
 
-create webpage for NYC's World Fairs
+create webpage for my personal use
 
-Benchmark: have created a webpage dedicated to the digitization of NYC's World Fairs at Flushing Meadow.
+Benchmark: have created a webpage dedicated to my undergrad/ professional work.
 
 
 ## Goal Three

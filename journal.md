@@ -1,4 +1,4 @@
-# $Christofer's Technical Journal
+Christofer's Technical Journal
 
 ## Week Two (1/30 to 2/6)
 
@@ -41,7 +41,7 @@ Hour 7: Went over materials to be discussed in class
 
 ## Week four (2/20 to 2/27)
 
-This week, I reworked the sloth emporium html page for my own website. I created a front/home page, CV page, Bio page, and Portfolio page that all link together. 
+This week, I reworked the sloth emporium html page for my own website. I created a front/home page, CV page, Bio page, and Portfolio page that all link together. Worked on formating HTML page and looked at similar professional pages to create a similar and professional page. Still need to add verbage, but like how the page is starting to come together.
 
 Hour 1: Reworked Sloth Emporium html page
 Hour 2: Continued to rework html page
@@ -50,3 +50,42 @@ Hour 4: Continued to rework html page
 Hour 5: Continued to rework html page
 Hour 6: Continued to rework html page
 Hour 7: Continued to rework html page
+
+
+## Week four (2/27 to 3/6)
+
+This week I worked on "Learn Python the Hard Way" with a fellow classmate. We went through the first 4 steps for Python 3 and updated the command line to function with multiple platforms. After getting sucked into the "Free as in Freedom" reading, I decided to focus on the life and work of Richard Stallman. Sam Williams did a terrific job of not only informing the reader about Stallman, but did so in a way that I thought was very lite and almost funny. I had a lot of the feels go through me while reading. A wonderful read! 
+
+Hour 1: Worked on exercises 1-4 in "Learn Python the Hard Way"
+Hour 2: Read "Free as in Freedom"
+Hour 3: Read "Free as in Freedom"
+Hour 4: Read "Free as in Freedom"
+Hour 5: Read "Free as in Freedom"
+Hour 6: Read "Free as in Freedom"
+Hour 7: Read "Free as in Freedom"
+
+
+## Week four (3/6 to 3/13)
+
+This week, since I wasn't able to do as much coding as I would have liked, I continued to work on "Learn Python the Hard Way". I was getting into a rythm, but lessons 13, 14, and 15 threw me through a loop with the use of arguments. It took me a nearly two hours to get the hang of it, but after go back and forth through the lessons I was able to gain a better grasp. 
+
+Hour 1: Worked on excercises 4-6 in "Learn Python the Hard Way"
+Hour 2: Worked on excercises 7-9 in "Learn Python the Hard Way"
+Hour 3: Worked on excercises 10-12 in "Learn Python the Hard Way"
+Hour 4: Worked on excercises 13-14 in "Learn Python the Hard Way"
+Hour 5: Worked on excercises 14-15 in "Learn Python the Hard Way"
+
+
+## Week four (3/13 to 3/20)
+
+Attended a two hour workshop on Graphic Design for Websites. The workshop was lead by Ryan Seslow and he showed us his website and some of the projects he has been working on. Although I thought we were going to work on a website of our own, it was informing to have Ryan go through his website and have him tell us what important movements have taken place in regards to fonts and layout in the last decade. 
+
+Hour 1: Attended Graphic Design for Websites with Ryan Seslow 
+Hour 2: Attended Graphic Design for Websites with Ryan Seslow  
+Hour 3: Worked on excercises 16-17 in "Learn Python the Hard Way"
+Hour 4: Worked on excercises 18-19 in "Learn Python the Hard Way"
+Hour 5: Worked on excercises 20-21 in "Learn Python the Hard Way"
+Hour 6: Worked on excercises 22-23 in "Learn Python the Hard Way"
+
+
+## Week four (3/20 to 3/27)
