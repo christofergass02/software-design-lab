@@ -78,14 +78,34 @@ Hour 5: Worked on excercises 14-15 in "Learn Python the Hard Way"
 
 ## Week four (3/13 to 3/20)
 
-Attended a two hour workshop on Graphic Design for Websites. The workshop was lead by Ryan Seslow and he showed us his website and some of the projects he has been working on. Although I thought we were going to work on a website of our own, it was informing to have Ryan go through his website and have him tell us what important movements have taken place in regards to fonts and layout in the last decade. 
+Attended a two hour workshop on Graphic Design for Websites. The workshop was lead by Ryan Seslow and he showed us his website and some of the projects he has been working on. Although I thought we were going to work on a website of our own, it was informing to have Ryan go through his website and have him tell us what important movements have taken place in regards to fonts and layout in the last decade. I am also still conquering "Learn Python the Hard Way" as well.
 
 Hour 1: Attended Graphic Design for Websites with Ryan Seslow 
-Hour 2: Attended Graphic Design for Websites with Ryan Seslow  
+Hour 2: Attended Graphic Design for Websites with Ryan Seslow and submitted a net-art piece. 
 Hour 3: Worked on excercises 16-17 in "Learn Python the Hard Way"
 Hour 4: Worked on excercises 18-19 in "Learn Python the Hard Way"
 Hour 5: Worked on excercises 20-21 in "Learn Python the Hard Way"
 Hour 6: Worked on excercises 22-23 in "Learn Python the Hard Way"
+Hour 7: Interacted in the online textbased computer game "Zork I". Killed by a lurking Grue!
 
 
 ## Week four (3/20 to 3/27)
+Last weeks class with the two client developers was exceptionally helpful! It assisted with my reasoning and focus on specific aspects of my web app proposal. In addition to conceptualizing and writing my application, and a couple hours of Zork I, I continued to code utilizing "Learn Python the Hard Way". 
+
+Hour 1: Worked on excercises 24-25 in "Learn Python the Hard Way"
+Hour 2: Worked on excercises 26-27 in "Learn Python the Hard Way"
+Hour 3: Worked on excercises 28-29 in "Learn Python the Hard Way"
+Hour 4: Worked on excercises 30-31 in "Learn Python the Hard Way"
+Hour 5: Reworked excercise 31 in "Learn Python the Hard Way"
+Hour 6: Worked on my application for 3-4 hours
+
+
+## Week four (3/27 to 4/3)
+This week I have been focused on the application Sabina and I are creating for Thomas. The application is a Oral History App and I first started by drawing out how I conceived the app to look. This process was showcased from our presenters and was exceptionally helpful to me for visualizing something I am not sure how to create. Other aspects of there discussion that have weighed heavily on me, in a very positive way, was there uncertainty to clarity graph and MSCW technique. My meeting with Sabina was exceptionally fruitful. Her MVP is different than mine, so we discussed and debated what was essential for the MVP - an ongoing conversation. We are very invested in this  
+
+Hour 1: Conceptualized the application layout in drawings
+Hour 2: Meeting with Sabina to create app
+Hour 3: Meeting with Sabina to create app
+Hour 4: Meeting with Sabina to create app
+Hour 5: Meeting with Sabina to create app
+Hour 6: Meeting with Sabina to create app
