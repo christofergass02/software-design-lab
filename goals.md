@@ -10,9 +10,9 @@ Benchmark: have created multiple processes in the command line and anaconda with
 
 ## Goal Two
 
-create webpage for professional use
+create webpage for school, professional and personal use.
 
-Benchmark: have created a webpage dedicated to my school, professional and personal work.
+Benchmark: have created a webpage dedicated to my school, professional and personal work with Home, CV, Bio, Portfolio and Contact pages.
 
 
 ## Goal Three
