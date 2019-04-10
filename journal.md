@@ -39,7 +39,7 @@ Hour 6: Continued Automate the Boring Stuff with Python
 Hour 7: Went over materials to be discussed in class
 
 
-## Week four (2/20 to 2/27)
+## Week five (2/20 to 2/27)
 
 This week, I reworked the sloth emporium html page for my own website. I created a front/home page, CV page, Bio page, and Portfolio page that all link together. Worked on formating HTML page and looked at similar professional pages to create a similar and professional page. Still need to add verbage, but like how the page is starting to come together.
 
@@ -52,7 +52,7 @@ Hour 6: Continued to rework html page
 Hour 7: Continued to rework html page
 
 
-## Week four (2/27 to 3/6)
+## Week six (2/27 to 3/6)
 
 This week I worked on "Learn Python the Hard Way" with a fellow classmate. We went through the first 4 steps for Python 3 and updated the command line to function with multiple platforms. After getting sucked into the "Free as in Freedom" reading, I decided to focus on the life and work of Richard Stallman. Sam Williams did a terrific job of not only informing the reader about Stallman, but did so in a way that I thought was very lite and almost funny. I had a lot of the feels go through me while reading. A wonderful read! 
 
@@ -65,7 +65,7 @@ Hour 6: Read "Free as in Freedom"
 Hour 7: Read "Free as in Freedom"
 
 
-## Week four (3/6 to 3/13)
+## Week seven (3/6 to 3/13)
 
 This week, since I wasn't able to do as much coding as I would have liked, I continued to work on "Learn Python the Hard Way". I was getting into a rythm, but lessons 13, 14, and 15 threw me through a loop with the use of arguments. It took me a nearly two hours to get the hang of it, but after go back and forth through the lessons I was able to gain a better grasp. 
 
@@ -76,7 +76,7 @@ Hour 4: Worked on excercises 13-14 in "Learn Python the Hard Way"
 Hour 5: Worked on excercises 14-15 in "Learn Python the Hard Way"
 
 
-## Week four (3/13 to 3/20)
+## Week eight (3/13 to 3/20)
 
 Attended a two hour workshop on Graphic Design for Websites. The workshop was lead by Ryan Seslow and he showed us his website and some of the projects he has been working on. Although I thought we were going to work on a website of our own, it was informing to have Ryan go through his website and have him tell us what important movements have taken place in regards to fonts and layout in the last decade. I am also still conquering "Learn Python the Hard Way" as well.
 
@@ -89,7 +89,7 @@ Hour 6: Worked on excercises 22-23 in "Learn Python the Hard Way"
 Hour 7: Interacted in the online textbased computer game "Zork I". Killed by a lurking Grue!
 
 
-## Week four (3/20 to 3/27)
+## Week nine (3/20 to 3/27)
 Last weeks class with the two client developers was exceptionally helpful! It assisted with my reasoning and focus on specific aspects of my web app proposal. In addition to conceptualizing and writing my application, and a couple hours of Zork I, I continued to code utilizing "Learn Python the Hard Way". 
 
 Hour 1: Worked on excercises 24-25 in "Learn Python the Hard Way"
@@ -100,8 +100,8 @@ Hour 5: Reworked excercise 31 in "Learn Python the Hard Way"
 Hour 6: Worked on my application for 3-4 hours
 
 
-## Week four (3/27 to 4/3)
-This week I have been focused on the application Sabina and I are creating for Thomas. The application is a Oral History App and I first started by drawing out how I conceived the app to look. This process was showcased from our presenters and was exceptionally helpful to me for visualizing something I am not sure how to create. Other aspects of there discussion that have weighed heavily on me, in a very positive way, was there uncertainty to clarity graph and MSCW technique. My meeting with Sabina was exceptionally fruitful. Her MVP is different than mine, so we discussed and debated what was essential for the MVP - an ongoing conversation. We are very invested in this  
+## Week ten (3/27 to 4/3)
+This week I have been focused on the application Sabina and I are creating for Thomas. The application is a Oral History App and I first started by drawing out how I conceived the app to look. This process was showcased from our presenters and was exceptionally helpful to me for visualizing something I am not sure how to create. Other aspects of there discussion that have weighed heavily on me, in a very positive way, was there uncertainty to clarity graph and MSCW technique. My meeting with Sabina was exceptionally fruitful. Her MVP is different than mine, so we discussed and debated what was essential for the MVP - an ongoing conversation. We are very invested in this. Following our meeting I created additional pages and linked them to the site.
 
 Hour 1: Conceptualized the application layout in drawings
 Hour 2: Meeting with Sabina to create app
@@ -109,3 +109,12 @@ Hour 3: Meeting with Sabina to create app
 Hour 4: Meeting with Sabina to create app
 Hour 5: Meeting with Sabina to create app
 Hour 6: Meeting with Sabina to create app
+Hour 7: Worked on Oral History App
+
+
+## Week eleven (4/3 to 4/10)
+
+
+Hour 1: Worked on "The Flask Mega-Tutorial Part 1: Hello, World!" 
+Hour 2: Worked on "Creating Web APIs with Python and Flask"
+Hour 3:
