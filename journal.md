@@ -90,6 +90,7 @@ Hour 7: Interacted in the online textbased computer game "Zork I". Killed by a l
 
 
 ## Week nine (3/20 to 3/27)
+
 Last weeks class with the two client developers was exceptionally helpful! It assisted with my reasoning and focus on specific aspects of my web app proposal. In addition to conceptualizing and writing my application, and a couple hours of Zork I, I continued to code utilizing "Learn Python the Hard Way". 
 
 Hour 1: Worked on excercises 24-25 in "Learn Python the Hard Way"
@@ -101,20 +102,79 @@ Hour 6: Worked on my application for 3-4 hours
 
 
 ## Week ten (3/27 to 4/3)
+
 This week I have been focused on the application Sabina and I are creating for Thomas. The application is a Oral History App and I first started by drawing out how I conceived the app to look. This process was showcased from our presenters and was exceptionally helpful to me for visualizing something I am not sure how to create. Other aspects of there discussion that have weighed heavily on me, in a very positive way, was there uncertainty to clarity graph and MSCW technique. My meeting with Sabina was exceptionally fruitful. Her MVP is different than mine, so we discussed and debated what was essential for the MVP - an ongoing conversation. We are very invested in this. Following our meeting I created additional pages and linked them to the site.
 
 Hour 1: Conceptualized the application layout in drawings
-Hour 2: Meeting with Sabina to create app
-Hour 3: Meeting with Sabina to create app
-Hour 4: Meeting with Sabina to create app
-Hour 5: Meeting with Sabina to create app
-Hour 6: Meeting with Sabina to create app
+Hour 2: Worked with Sabina on app
+Hour 3: Worked with Sabina on app
+Hour 4: Worked with Sabina on app
+Hour 5: Worked with Sabina on app
+Hour 6: Worked with Sabina on app
 Hour 7: Worked on Oral History App
 
 
 ## Week eleven (4/3 to 4/10)
 
+After starting off in HTML, Sabina and I transferred our efforts to making the app in Flask.   
 
-Hour 1: Worked on "The Flask Mega-Tutorial Part 1: Hello, World!" 
+Hour 1: Worked on "The Flask Mega-Tutorial Part 1-2" 
 Hour 2: Worked on "Creating Web APIs with Python and Flask"
-Hour 3:
+Hour 3: Worked on Oral History App prototype in Flask
+Hour 4: Worked on Oral History App prototype in Flask
+Hour 5: Worked on Oral History App prototype in Flask
+
+
+## Week twelve (4/10 to 4/17)
+
+Met with Sabina at City College and worked on Oral History App. We started our wireframe, but decided to put it to the side to focus on recreating our app in Flask. After our meeting I worked a few hours on creating a wireframe in Invision. Created the first two pages, the 'Home' and 'Add' page and sent to Sabina for her thoughts. Overall, she liked how it looked, but just had a couple small changes.
+
+Hour 1: Worked with Sabina on app
+Hour 2: Worked with Sabina on app
+Hour 3: Worked with Sabina on app
+Hour 4: Worked with Sabina on app
+Hour 5: Worked with Sabina on app
+Hour 6: Worked on wireframe in Invision
+Hour 7: Worked on wireframe in Invision
+Hour 8: Worked on wireframe in Invision
+
+
+## Week thirteen (4/17 to 4/24)
+
+Continued to work on wireframe in Invision. Met with Sabina at her place in Chelsea and we devoted our time to working on the app. Created the Flask page for our website with a 'Home', 'Add', and 'Archive' page. Sent wireframe to Thomas and he liked the layout, the only change he requested that the 'Archive' page be 'Collection' instead - changed!
+
+Hour 1: Worked on wireframe in Invision
+Hour 2: Worked on wireframe in Invision
+Hour 3: Worked on wireframe in Invision
+Hour 1: Worked with Sabina on app
+Hour 2: Worked with Sabina on app
+Hour 3: Worked with Sabina on app
+Hour 4: Worked with Sabina on app
+Hour 5: Worked with Sabina on app
+
+
+## Week fourteen (4/24 to 5/1)
+
+Have been meeting with Sabina to create the Oral History Application. We have meeting in many different places to work on this app, but the most fruitfull experience was at the NYPL on 42nd. It is a place strictly conducive to learning and for us, the creation of this app. Major impactful moments from our meeting at the library was the creation of the 'Add' page for the app and a sqlite database. However, after making wonderful headway in the early hours of our meeting, we hit a brick wall and trudged through the last half of our meeting in hopes of creating further headway. However, the damage was done and we cut our loses and plan to meet again in two days. 
+
+We met at NYPL for two hours before moving to the library at the Grad Center. Disappointment is starting to surface. I have been wasting so much time initially attempting to go around 'pip install' and now trying to install pip. Running into issue after issue. One route I have been told to go through using https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation is to create a new 'System Variable' in 'Environmental Variables', but when I open 'Environmental Variables' the 'New', 'Edit', and 'Delete' tabs are not clickable . . . just stuff like that one after another. Keeping me from focusing on the app itself, but we'll get through this. Hoping to have fixed before Sabina and I meet with the Digital Fellows tomorrow at 3, if not I will have to work it out with them, but again, that would unfortunately take away from working on the app. Again, we will overcome!
+
+Met with the Digital Fellows with Sabina for their 3-5 office hours. Was able to work with Kristen on the issue I have been having. Although we were not able to find a clear cut answer for what I am trying to do we went through steps to try to run pip and install virtualenvironment. The last thing we attempted was uninstalling Python, which was kind of scary for me. I know Python works, I've been using it, but Kristen brought up that I might have not checked for adding to PATH. Although I remember going through the tutorial step by step, she might be right. So I uninstalled and then reinstalled. I hope that fixes the issue. Wow, I installed improperly. What a waste of time on my part. 
+
+Hour 1: Worked with Sabina on app
+Hour 2: Worked with Sabina on app
+Hour 3: Worked with Sabina on app
+Hour 4: Worked with Sabina on app
+Hour 5: Worked with Sabina on app
+Hour 6: Worked with Sabina on app
+Hour 7: Worked with Sabina on app
+Hour 8: Worked with Sabina on app
+Hour 9: Worked with Sabina on app
+Hour 10: Worked with Sabina on app
+Hour 11: Met with Digital Fellows regarding Oral History App
+Hour 12: Met with Digital Fellows regarding Oral History App
+Hour 13: Worked with Sabina on "The Flask Mega-Tutorial"
+Hour 14: Worked with Sabina on "The Flask Mega-Tutorial"
+
+
+## Week fourteen (5/1 to 5/8)
