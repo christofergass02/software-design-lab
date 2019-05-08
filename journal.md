@@ -178,3 +178,26 @@ Hour 14: Worked with Sabina on "The Flask Mega-Tutorial"
 
 
 ## Week fourteen (5/1 to 5/8)
+
+Met with Thomas after class to show him our progress. He also gave us a page to use as a template for creating an instruction manual for showing future admin how get the site working and to utilize the site. Met with Sabina at the GC to work on coding for the app.
+
+Continued to work through Miguel's tutorial and then Skyped with Thomas. Conversation went well. We informed and showed Thomas where we are and he directed us to focus on style and jasonifying the form page to collection page. I have taken on the styling aspect, while Sabina is going to work on jasonifying the form output. We hope to be able to show Thomas a working site by Wednesday, but it not be until next Sunday, maybe. 
+
+Added an image to the front page of our app that Sabina took of her local hardware store - Kove Bros Hardware. While she creates a fictional database for the owner and employees to add as a temporary filler. With hopes of having this information jsonified. Working on styling the site, but having issues with my stylesheet connecting with the app. Have tried multiple different CSS files and different ways of writing in my html file, but nothing seems to work, yet. 
+
+Hour 1: Worked with Sabina on app
+Hour 2: Worked with Sabina on app
+Hour 3: Worked with Sabina on app
+Hour 4: Worked with Sabina on app
+Hour 5: Worked with Sabina on app
+Hour 6: Worked with Sabina on app
+Hour 7: Worked with Sabina on app 
+Hour 8: Worked with Sabina on app
+Hour 9: Worked with Sabina on app
+Hour 10: Worked with Sabina on app
+Hour 11: Worked with Sabina on app
+Hour 12: Tried to enable my CSS stylesheet to work!
+Hour 13: Added an image to the front page
+Hour 14: Worked with Sabina on app
+Hour 15: Met with Rafael to discuss app 
+Hour 16: Met with Rafael to discuss app
