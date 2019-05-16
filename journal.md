@@ -177,7 +177,7 @@ Hour 13: Worked with Sabina on "The Flask Mega-Tutorial"
 Hour 14: Worked with Sabina on "The Flask Mega-Tutorial"
 
 
-## Week fourteen (5/1 to 5/8)
+## Week fifteen (5/1 to 5/8)
 
 Met with Thomas after class to show him our progress. He also gave us a page to use as a template for creating an instruction manual for showing future admin how get the site working and to utilize the site. Met with Sabina at the GC to work on coding for the app.
 
@@ -201,3 +201,18 @@ Hour 13: Added an image to the front page
 Hour 14: Worked with Sabina on app
 Hour 15: Met with Rafael to discuss app 
 Hour 16: Met with Rafael to discuss app
+
+
+## Week sixteen (5/8 to 5/15)
+
+Sabina and I are at it again. We have spent so many hours on this app, but I feel like we do not have much to show for it, unfortunately. Sabina is woking to recreate site, 2.0, with a focus on databases. I am working on styling and creating links to other pages from within Collections page. Changed the size of the image on the front page. Sounds like a simple task, but after the difficulty we've been having a small win feels good. Working abroad on this Mother's Day. Still working to add a static site. Once I do that I plan to add some style. Having technical difficulties. My computer is not been cooperating too well. Just want to last for a couple more weeks, until the end of semester and all my work is done. Sabina went in a different direction with the app and it has a new look and process. We will go with this and write instructions that will be deposited with the code to Github, then white paper. The semester has been a blast! 
+
+Hour 1: Met with Sabina to work on app
+Hour 2: Met with Sabina to work on app
+Hour 3: Met with Sabina to work on app
+Hour 4: Met with Sabina to work on app
+Hour 5: Worked on app
+Hour 6: Worked on app
+Hour 7: Met with Sabina to work on app
+Hour 8: Met with Sabina to work on app
+Hour 9: Writing instructions for using app
